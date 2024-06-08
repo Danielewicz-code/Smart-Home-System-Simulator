@@ -28,6 +28,6 @@ UserManagement: Create user accounts, log in, and manage users.
 
 Feel like you can make this better? Fork the repo and submit a pull request. Improvements are always welcome, just don’t break anything.
 
-##License
+## License
 
 This project is under the MIT License.
