@@ -152,7 +152,7 @@ class UserManagement:
         user.login(password)
         return user
 
-    #for password reset aproach or accessing user info
+    #for extra possible features like: password reset aproach or accessing user info
     def get_user(self, user_name):
         if user_name not in self.users:
             raise ValueError(f"{user_name} does not exist")
